@@ -23,6 +23,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background: var(--bg);
+  background-image: url('https://github.com/hashjiggy/TicTacToe/blob/main/playful-tic-tac-toe-free-vector.jpg');
 }
 
 #sm-player-cards {
